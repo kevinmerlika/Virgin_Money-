@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/kevin/AndroidStudioProjects/Virgin_money_app/app/src/main/res/layout/activity_main.xml" value="0.1078125" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/Virgin_money_app/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/Virgin_money_app/app/src/main/res/layout/people_layout.xml" value="0.1" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/Virgin_money_app/app/src/main/res/layout/room_layout.xml" value="0.1" />
       </map>
     </option>
   </component>

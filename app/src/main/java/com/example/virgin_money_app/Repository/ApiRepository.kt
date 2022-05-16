@@ -7,4 +7,5 @@ class ApiRepository
 @Inject
 constructor(private val api: Api)  {
     suspend fun getAllPeople() = api.getPeople()
+    suspend fun getAllRooms() = api.getRooms()
 }
